@@ -1,6 +1,3 @@
-# NAME: Mail
-# AUTHOR: blackmatrix7
-
 DOMAIN,apple.imap.mail.yahoo.com
 DOMAIN,apple.smtp.mail.yahoo.com
 DOMAIN,imap-mail.outlook.com
@@ -11,7 +8,6 @@ DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.gmail.com
 DOMAIN,smtp.office365.com
 DOMAIN-SUFFIX,m.hotmail.com
-
 #Spark
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,firebaseio.com
