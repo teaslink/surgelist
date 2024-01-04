@@ -1,25 +1,32 @@
-DOMAIN-SUFFIX,tw
-DOMAIN-KEYWORD,google
+# Alphabet
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-KEYWORD,blogspot
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,android.com
+# Dropbox
+DOMAIN-KEYWORD,dropbox
+# Google
+DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,youtu.be
+# Instagram
+DOMAIN-KEYWORD,instagram
+# Meta
 DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,dropbox
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-KEYWORD,blogspot
-DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-KEYWORD,whatsapp
-DOMAIN-SUFFIX,letsencrypt.org
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,githubusercontent.com
+# Twitter
+DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,twimg.com
+# Wikimedia Foundation
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.org
+# Linkedin
 DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
@@ -32,3 +39,11 @@ DOMAIN-SUFFIX,linkedin.at
 DOMAIN-SUFFIX,linkedin.cn
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,lnkd.in
+# others
+DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-KEYWORD,blogspot
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,githubusercontent.com
+
