@@ -233,6 +233,18 @@ DOMAIN-SUFFIX,wiktionary.org
 # > Yahoo
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN,search.yahoo.co.jp
+DOMAIN-SUFFIX,yahoo.com.co
+DOMAIN-SUFFIX,yahoo.com.hk
+DOMAIN-SUFFIX,ahoo.com.tw
+DOMAIN-SUFFIX,yahoo.me
+DOMAIN-SUFFIX,yahoo.net
+DOMAIN-SUFFIX,yahooapis.com
+DOMAIN-SUFFIX,yahoodns.net
+DOMAIN-SUFFIX,yahoofinance.com
+DOMAIN-SUFFIX,yahoohealth.com
+DOMAIN-SUFFIX,yahoomusic.com
+DOMAIN-SUFFIX,yahoosandbox.com
+DOMAIN-SUFFIX,yahoosportsbook.com
 # > Yandex
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN,disk.yandex.com
